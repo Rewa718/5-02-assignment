@@ -1,0 +1,13 @@
+.heading {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 100%;
+  text-align: center;
+}
+
+.color {
+  background-color: lightgreen;
+}
+
+.align {
+  align-self: center;
+}
